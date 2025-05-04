@@ -16,3 +16,5 @@ Teknologi :
 2. Akun Admin
    - Username : Vinci
    - Password : 12345
+
+link akses : localhost/stockbarang
